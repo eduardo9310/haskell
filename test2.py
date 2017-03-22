@@ -1,1 +1,0 @@
-print("Ejemplo 2")
